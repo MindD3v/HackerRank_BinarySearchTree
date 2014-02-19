@@ -1,0 +1,5 @@
+C:\Users\jhinojosa\documents\visual studio 2013\Projects\HackerRank\BinarySearchTreeTests\bin\Debug\BinarySearchTreeTests.dll
+C:\Users\jhinojosa\documents\visual studio 2013\Projects\HackerRank\BinarySearchTreeTests\bin\Debug\BinarySearchTreeTests.pdb
+C:\Users\jhinojosa\documents\visual studio 2013\Projects\HackerRank\BinarySearchTreeTests\obj\Debug\BinarySearchTreeTests.csprojResolveAssemblyReference.cache
+C:\Users\jhinojosa\documents\visual studio 2013\Projects\HackerRank\BinarySearchTreeTests\obj\Debug\BinarySearchTreeTests.dll
+C:\Users\jhinojosa\documents\visual studio 2013\Projects\HackerRank\BinarySearchTreeTests\obj\Debug\BinarySearchTreeTests.pdb
